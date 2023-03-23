@@ -6,7 +6,7 @@
 - Smartphone
 
 ## Setup
-1. Download srslte.bin file.
+1. Download srslte.bin file. `git clone https://github.com/jhonnybonny/LTE_HACKRF.git`
 2. Install the HackRF firmware: `sudo apt-get install hackrf`
 3. Connect the HackRF device to your computer.
 4. Run the following command: `hackrf_transfer -t srslte.bin -f 2649800000 -a 0 -s 15360000 -R -x 45`
