@@ -1,4 +1,5 @@
 # LTE_HACKRF
+Running LTE BTS with HackRF One
 
 ## Requirements
 - HackRF device
