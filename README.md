@@ -1,6 +1,10 @@
 # LTE_HACKRF
 Running LTE BTS with HackRF One
 
+## Thanks Gliderexpert ❤️
+
+This info from forum xss.is
+
 ## Requirements
 - HackRF device
 - Computer running Linux
