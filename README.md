@@ -1,7 +1,7 @@
 # LTE_HACKRF
 Running LTE BTS with HackRF One
 
-## Thanks Gliderexpert
+## Creator
 Thanks Gliderexpert from forum xss.is ❤️
 
 ## Requirements
@@ -19,4 +19,5 @@ Thanks Gliderexpert from forum xss.is ❤️
 
 ## Troubleshooting
 If you encounter any issues, please let us know by creating a new issue on this repository.
+
 This info from forum xss.is
